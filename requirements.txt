@@ -1,0 +1,7 @@
+streamlit
+transformers
+scikit-learn
+pandas
+matplotlib
+seaborn
+wordcloud
