@@ -23,7 +23,7 @@
 
 ##  Запуск приложения
 
-git clone https://github.com/ваш-username/text-analysis-app.git
+1. git clone https://github.com/ваш-username/text-analysis-app.git
 cd text-analysis-app
 
 2. Установите зависимости:
